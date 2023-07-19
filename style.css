@@ -109,4 +109,25 @@ li:hover{
 .banner-container{
     display: flex;
 }
+
+.text-container{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    
+}
+
+figcaption{
+    margin-top: 25px;
+    color: #534C64;
+    font-size: 1.25;
+    font-weight: 500;
+}
+
+
    
