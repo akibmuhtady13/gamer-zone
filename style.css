@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 
@@ -129,5 +129,92 @@ figcaption{
     font-weight: 500;
 }
 
-
+.textt{
+    width: 70%;
+    text-align:center;
+    margin-top: 170px;
    
+}
+
+.cowboy{
+  
+}
+
+.cowboy-container{
+    display: flex;
+    width: 100%;
+    margin-top: 120px;
+}
+
+.butam{
+    border-radius: 50px;
+    background: #FFF;
+    width: 270px;
+    height: 90px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    align-items: center;
+    text-align: center;
+    border: 3px solid gray;
+    display: flex;
+    align-items: center;
+    gap: 17px;
+   
+
+}
+
+.fline{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    gap: 20px;
+    
+}
+
+.butam:hover{
+    cursor: pointer;
+    color: #FF42A5;
+    border: 7px solid #FF42A5
+}
+
+.sline{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.logo2{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 80px;
+}   
+
+footer{
+    margin-top: 120px;
+    background-color: rgba(11, 2, 35, 1);
+    
+}
+
+.list{
+    color: #FFF;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 60px;
+}
+
+.lo:hover{
+    cursor: pointer;
+    color: #FF42A5;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+    padding: 25px;
+    gap: 40px;
+}
