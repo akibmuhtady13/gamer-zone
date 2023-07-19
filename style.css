@@ -20,7 +20,7 @@ font-family: 'Work Sans'
 
 .nav-container{
     background: #FFF;
-    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.08);
     width: 100%;
     height: 110px;
     align-items: center;
@@ -155,7 +155,7 @@ figcaption{
     font-weight: 600;
     align-items: center;
     text-align: center;
-    border: 3px solid gray;
+    border: none;
     display: flex;
     align-items: center;
     gap: 17px;
@@ -188,7 +188,7 @@ figcaption{
     display: flex;
     justify-content: center;
     gap: 20px;
-    padding-top: 80px;
+    padding-top: 70px;
 }   
 
 footer{
@@ -233,10 +233,12 @@ footer{
     color: rgba(255, 255, 255, 0.60);
     font-weight: 500;
     text-align: center;
-    margin-top: 25px;
+    margin-top: 55px;
+    padding-bottom: 70px;
 }
 
 .lp:hover{
     cursor: pointer;
     color: #ffffff;
 }
+
