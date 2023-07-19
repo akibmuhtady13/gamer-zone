@@ -218,3 +218,25 @@ footer{
     padding: 25px;
     gap: 40px;
 }
+
+.mini{
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.60);
+    font-weight: 500;
+    gap: 60px;
+    list-style: none;
+    margin-top: 55px;
+}
+
+.minii{
+    color: rgba(255, 255, 255, 0.60);
+    font-weight: 500;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.lp:hover{
+    cursor: pointer;
+    color: #ffffff;
+}
